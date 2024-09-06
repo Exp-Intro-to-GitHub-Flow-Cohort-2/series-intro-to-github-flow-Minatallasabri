@@ -1,0 +1,6 @@
+- ✨ Welcome to my GitHub profile!
+- 👋 Hi, I’m @Minatallasabri.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning Full-Stack Deveolpment
+- 😄 Pronouns: Manoona.
+- ⚡ Fun fact: I'm Just A Biginner Programmer.
